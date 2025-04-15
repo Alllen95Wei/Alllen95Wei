@@ -1,4 +1,4 @@
-#👋 Hi, I’m @Alllen95Wei
+# 👋 Hi, I’m @Alllen95Wei
 - Currently studying at **National Experimental High School at Central Taiwan Science Park**
 - Alumni of **FRC#7636 Robomania**
 
